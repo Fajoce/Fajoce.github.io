@@ -1,0 +1,11 @@
+.row, .form3{
+    display:flex;
+    justify-content: space-evenly;
+  
+   
+}
+.container{
+    display:flex;
+    justify-content: space-around;
+    
+}
